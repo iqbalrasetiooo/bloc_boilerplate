@@ -1,4 +1,4 @@
-#BLoC Boilerplate
+BLoC Boilerplate
 Welcome to the BLoC Boilerplate repository! This repository contains a boilerplate for state management using BLoC (Business Logic Components) in Flutter projects.
 
 Getting Started
